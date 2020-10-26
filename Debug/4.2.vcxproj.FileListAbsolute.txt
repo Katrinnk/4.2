@@ -1,0 +1,2 @@
+E:\vs\4.2\Debug\4.2.exe
+E:\vs\4.2\Debug\4.2.pdb
